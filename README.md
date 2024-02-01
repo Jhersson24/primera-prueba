@@ -1,2 +1,2 @@
-# primera-prueba
+# Mi primer README
 Primer repositorio de practicas
